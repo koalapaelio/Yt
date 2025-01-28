@@ -1,4 +1,4 @@
-// https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/dist/youtube.request.preview.js
+// https://raw.githubusercontent.com/koalapaelio/Yt/refs/heads/main/youtube.request.preview.js
 // Build: 2024/11/12 23:57:15
 (() => {
   var ct = Object.defineProperty;
