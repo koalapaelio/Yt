@@ -1,4 +1,4 @@
-// https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/dist/youtube.response.preview.js
+// https://raw.githubusercontent.com/koalapaelio/Yt/refs/heads/main/youtube.response.preview.js
 // Build: 2024/11/24 11:47:49
 (() => {
   var qt = Object.defineProperty;
